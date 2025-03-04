@@ -48,3 +48,7 @@ When loaded, the script will append hidden links like this to your webpage:
 <a href="https://example.com" rel="nofollow" target="_blank">Example</a>
 <a href="https://example.com/test" rel="dofollow" target="_self">Example Test</a>
 ```
+
+## Disclaimer
+
+This tool is intended for educational or personal use.
